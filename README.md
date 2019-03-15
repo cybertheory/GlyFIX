@@ -21,13 +21,19 @@ Mac OS
 
 Sources:
 https://www.xbox.com/en-US/legal/xboxcomtou
+
 https://www.apple.com/legal/
+
 https://www.microsoft.com/en-us/servicesagreement
+
 https://secure.hulu.com/terms
+
 https://help.netflix.com/legal/termsofuse
 
 
 Copyright (c) 2019 Rishabh Singh and Project MNMS Email: contact@projectmnms.org
+
 Creative Commons Attribution 4.0 International Public License
+
 SIL OPEN FONT LICENSE Version 1.1
 
