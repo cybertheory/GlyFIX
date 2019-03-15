@@ -20,6 +20,7 @@ Windows
 Mac OS
 
 Sources:
+
 https://www.xbox.com/en-US/legal/xboxcomtou
 
 https://www.apple.com/legal/
