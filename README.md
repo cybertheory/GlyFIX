@@ -19,3 +19,11 @@ Computer OS:
 Windows
 Mac OS
 
+Sources:
+https://www.xbox.com/en-US/legal/xboxcomtou
+https://www.apple.com/legal/
+https://www.microsoft.com/en-us/servicesagreement
+https://secure.hulu.com/terms
+https://help.netflix.com/legal/termsofuse
+
+
