@@ -1,38 +1,42 @@
 # GlyFIX
-Creating Icons That Represent Common Terms of Service Entries
+Creating Icons That Represent Common Terms of Service Entries. Certain sercices today aim to summarize TOS and rate the TOS. We aim to 
+use these images in software that reads the text and presents pictures to summarize the TOS. Our future software will not depend on 
+databases as it aims to be reading the TOS live.
 
 Aims to be incorporated into the Terms of Service; Didn't Read (https://tosdr.org/) project
+
+An extension of and inspired by Aza Raskin's (https://wiki.mozilla.org/Privacy_Icons) Privacy Icons
 
 GlyFIX (Plural) meaning Glyphics - a symbol (such as a curved arrow on a road sign) that conveys information nonverbally
 
 GlyF (Singular) 
 
-These GlyFIX are based on the similarities between the terms of services of the biggest players in various tech industries:
+These GlyFIX are based on boilerplates from the terms of services of the biggest players in various tech industries:
 
-Gaming:
+## Gaming:
 Xbox
 PS4
 Nintendo
 
-Streaming:
+## Streaming:
 Netflix
 Hulu
 
-Smartphone:
+## Smartphone:
 Androids
 IOS
 
-Computer OS:
+## Computer OS:
 Windows
 Mac OS
 
-Search Engines:
+## Search Engines:
 Google
 Bing
 DuckDuckGo
 Yahoo
 
-Sources:
+## Sources:
 
 https://www.xbox.com/en-US/legal/xboxcomtou
 
