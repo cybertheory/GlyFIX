@@ -1,6 +1,10 @@
 # GlyFIX
 Creating Icons That Represent Common Terms of Service Entries
-These ICONS of GlyFIX are based on the similarities between the terms of services of the biggest players in various tech industries:
+
+GlyFIX (Plural) meaning Glyphics - a symbol (such as a curved arrow on a road sign) that conveys information nonverbally
+GlyF (Singular) 
+
+These GlyFIX are based on the similarities between the terms of services of the biggest players in various tech industries:
 
 Gaming:
 Xbox
