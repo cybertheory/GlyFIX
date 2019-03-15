@@ -1,6 +1,6 @@
 # GlyFIX
 Creating Icons That Represent Common Terms of Service Entries
-These ICONS of GlyFIX are based on the similarities between the terms of services of the biggest palyers in various tech industries:
+These ICONS of GlyFIX are based on the similarities between the terms of services of the biggest players in various tech industries:
 
 Gaming:
 Xbox
