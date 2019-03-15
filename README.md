@@ -24,6 +24,12 @@ Computer OS:
 Windows
 Mac OS
 
+Search Engines:
+Google
+Bing
+DuckDuckGo
+Yahoo
+
 Sources:
 
 https://www.xbox.com/en-US/legal/xboxcomtou
@@ -35,6 +41,8 @@ https://www.microsoft.com/en-us/servicesagreement
 https://secure.hulu.com/terms
 
 https://help.netflix.com/legal/termsofuse
+
+https://play.google.com/intl/en-us_us/about/play-terms/index.html
 
 
 Copyright (c) 2019 Rishabh Singh and Project MNMS Email: contact@projectmnms.org
